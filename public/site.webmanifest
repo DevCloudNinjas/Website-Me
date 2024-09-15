@@ -15,7 +15,7 @@
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
-  "name": "ProDevOpsGuy Tech",
-  "short_name": "prodevopsguy",
-  "description": "DevOps/Cloud Tech Community"
+  "name": "DevCloud Ninjas Community",
+  "short_name": "devcloudninjas",
+  "description": "Dev/Cloud Tech Community"
 }
